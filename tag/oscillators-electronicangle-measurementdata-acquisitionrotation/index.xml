@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscillators (electronic);Angle measurement;Data acquisition;Rotation; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/oscillators-electronicangle-measurementdata-acquisitionrotation/</link>
+      <atom:link href="https://glbupt.github.io/tag/oscillators-electronicangle-measurementdata-acquisitionrotation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscillators (electronic);Angle measurement;Data acquisition;Rotation;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Oscillators (electronic);Angle measurement;Data acquisition;Rotation;</title>
+      <link>https://glbupt.github.io/tag/oscillators-electronicangle-measurementdata-acquisitionrotation/</link>
+    </image>
+    
+    <item>
+      <title>Design and implementation of a novel tilt sensor based on the principle of variable reluctance</title>
+      <link>https://glbupt.github.io/publication/guo-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

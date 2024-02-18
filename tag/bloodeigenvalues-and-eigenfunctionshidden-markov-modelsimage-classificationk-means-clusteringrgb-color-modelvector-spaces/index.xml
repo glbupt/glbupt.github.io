@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blood;Eigenvalues and eigenfunctions;Hidden Markov models;Image classification;K-means clustering;RGB color model;Vector spaces; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/bloodeigenvalues-and-eigenfunctionshidden-markov-modelsimage-classificationk-means-clusteringrgb-color-modelvector-spaces/</link>
+      <atom:link href="https://glbupt.github.io/tag/bloodeigenvalues-and-eigenfunctionshidden-markov-modelsimage-classificationk-means-clusteringrgb-color-modelvector-spaces/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blood;Eigenvalues and eigenfunctions;Hidden Markov models;Image classification;K-means clustering;RGB color model;Vector spaces;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Blood;Eigenvalues and eigenfunctions;Hidden Markov models;Image classification;K-means clustering;RGB color model;Vector spaces;</title>
+      <link>https://glbupt.github.io/tag/bloodeigenvalues-and-eigenfunctionshidden-markov-modelsimage-classificationk-means-clusteringrgb-color-modelvector-spaces/</link>
+    </image>
+    
+    <item>
+      <title>Classification and detection using hidden Markov modelsupport vector machine algorithm based on optimal colour space selection for blood images</title>
+      <link>https://glbupt.github.io/publication/guo-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

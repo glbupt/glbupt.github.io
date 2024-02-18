@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine design;Poles;Structural design;Feedback linearization;Wire;Dynamics;Robots; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/machine-designpolesstructural-designfeedback-linearizationwiredynamicsrobots/</link>
+      <atom:link href="https://glbupt.github.io/tag/machine-designpolesstructural-designfeedback-linearizationwiredynamicsrobots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine design;Poles;Structural design;Feedback linearization;Wire;Dynamics;Robots;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine design;Poles;Structural design;Feedback linearization;Wire;Dynamics;Robots;</title>
+      <link>https://glbupt.github.io/tag/machine-designpolesstructural-designfeedback-linearizationwiredynamicsrobots/</link>
+    </image>
+    
+    <item>
+      <title>Structure Design and Stable-balancing Control of a Kind of Wire-moving Robot</title>
+      <link>https://glbupt.github.io/publication/guo-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

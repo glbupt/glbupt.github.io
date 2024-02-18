@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper-conference | Lei Guo</title>
+    <link>https://glbupt.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://glbupt.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>paper-conference</title>
+      <link>https://glbupt.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Simulation and Modeling of Modbus Protocol Based on Petri Net</title>
+      <link>https://glbupt.github.io/publication/guo-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and control of a kind of unicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the sliding mode controller for a kind of unicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust controller design for 90 degrees stand motion of a front-wheel drive bicycle robot</title>
+      <link>https://glbupt.github.io/publication/lei-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/lei-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing control of a kind of wire-moving robot</title>
+      <link>https://glbupt.github.io/publication/guo-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of non-linear controller for unicycle robot based on RBF neural network self-adaption control</title>
+      <link>https://glbupt.github.io/publication/guo-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and adaptive controller design for a wire-moving robot</title>
+      <link>https://glbupt.github.io/publication/guo-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

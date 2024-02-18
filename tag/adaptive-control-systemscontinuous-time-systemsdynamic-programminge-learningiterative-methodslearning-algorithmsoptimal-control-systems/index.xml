@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptive control systems;Continuous time systems;Dynamic programming;E-learning;Iterative methods;Learning algorithms;Optimal control systems; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/adaptive-control-systemscontinuous-time-systemsdynamic-programminge-learningiterative-methodslearning-algorithmsoptimal-control-systems/</link>
+      <atom:link href="https://glbupt.github.io/tag/adaptive-control-systemscontinuous-time-systemsdynamic-programminge-learningiterative-methodslearning-algorithmsoptimal-control-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adaptive control systems;Continuous time systems;Dynamic programming;E-learning;Iterative methods;Learning algorithms;Optimal control systems;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Adaptive control systems;Continuous time systems;Dynamic programming;E-learning;Iterative methods;Learning algorithms;Optimal control systems;</title>
+      <link>https://glbupt.github.io/tag/adaptive-control-systemscontinuous-time-systemsdynamic-programminge-learningiterative-methodslearning-algorithmsoptimal-control-systems/</link>
+    </image>
+    
+    <item>
+      <title>Online adaptive optimal control algorithm based on synchronous integral reinforcement learning with explorations</title>
+      <link>https://glbupt.github.io/publication/guo-2023-c/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

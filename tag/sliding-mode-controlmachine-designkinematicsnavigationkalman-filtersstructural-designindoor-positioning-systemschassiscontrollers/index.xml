@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sliding mode control;Machine design;Kinematics;Navigation;Kalman filters;Structural design;Indoor positioning systems;Chassis;Controllers; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/sliding-mode-controlmachine-designkinematicsnavigationkalman-filtersstructural-designindoor-positioning-systemschassiscontrollers/</link>
+      <atom:link href="https://glbupt.github.io/tag/sliding-mode-controlmachine-designkinematicsnavigationkalman-filtersstructural-designindoor-positioning-systemschassiscontrollers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sliding mode control;Machine design;Kinematics;Navigation;Kalman filters;Structural design;Indoor positioning systems;Chassis;Controllers;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sliding mode control;Machine design;Kinematics;Navigation;Kalman filters;Structural design;Indoor positioning systems;Chassis;Controllers;</title>
+      <link>https://glbupt.github.io/tag/sliding-mode-controlmachine-designkinematicsnavigationkalman-filtersstructural-designindoor-positioning-systemschassiscontrollers/</link>
+    </image>
+    
+    <item>
+      <title>Design and control of a variable structure robot</title>
+      <link>https://glbupt.github.io/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

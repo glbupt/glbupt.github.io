@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine design;MATLAB;Radial basis function networks;Mobile robots;Linear control systems;Real time control;Vehicles; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/machine-designmatlabradial-basis-function-networksmobile-robotslinear-control-systemsreal-time-controlvehicles/</link>
+      <atom:link href="https://glbupt.github.io/tag/machine-designmatlabradial-basis-function-networksmobile-robotslinear-control-systemsreal-time-controlvehicles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine design;MATLAB;Radial basis function networks;Mobile robots;Linear control systems;Real time control;Vehicles;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine design;MATLAB;Radial basis function networks;Mobile robots;Linear control systems;Real time control;Vehicles;</title>
+      <link>https://glbupt.github.io/tag/machine-designmatlabradial-basis-function-networksmobile-robotslinear-control-systemsreal-time-controlvehicles/</link>
+    </image>
+    
+    <item>
+      <title>Design of non-linear controller for unicycle robot based on RBF neural network self-adaption control</title>
+      <link>https://glbupt.github.io/publication/guo-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

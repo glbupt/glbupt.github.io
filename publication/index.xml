@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lei Guo</title>
+    <link>https://glbupt.github.io/publication/</link>
+      <atom:link href="https://glbupt.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://glbupt.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Online adaptive optimal control algorithm based on synchronous integral reinforcement learning with explorations</title>
+      <link>https://glbupt.github.io/publication/guo-2023-c/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient model-free adaptive optimal control of continuous-time nonlinear non-zero-sum games based on integral reinforcement learning with exploration</title>
+      <link>https://glbupt.github.io/publication/guo-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined control algorithm based on synchronous reinforcement learning for a self-balancing bicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2023-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-free adaptive optimal control of continuous-time nonlinear non-zero-sum games based on reinforcement learning</title>
+      <link>https://glbupt.github.io/publication/guo-2023-b/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-empirical dynamics modeling of a bicycle robot based on feature selection and RHONN</title>
+      <link>https://glbupt.github.io/publication/guo-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification and detection using hidden Markov modelsupport vector machine algorithm based on optimal colour space selection for blood images</title>
+      <link>https://glbupt.github.io/publication/guo-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nearly optimal chattering reduction method of sliding mode control with an application to a two-wheeled Mobile Robot</title>
+      <link>https://glbupt.github.io/publication/guo-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural optimization of a new type of lever-assisted gear reducer based on a genetic algorithm</title>
+      <link>https://glbupt.github.io/publication/guo-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and control of a variable structure robot</title>
+      <link>https://glbupt.github.io/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of a novel tilt sensor based on the principle of variable reluctance</title>
+      <link>https://glbupt.github.io/publication/guo-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling of a variable structure two-wheeled robot during the mode switching process between Segway mode and bicycle mode</title>
+      <link>https://glbupt.github.io/publication/guo-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Modeling of Modbus Protocol Based on Petri Net</title>
+      <link>https://glbupt.github.io/publication/guo-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and control of a kind of unicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the sliding mode controller for a kind of unicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust controller design for 90 degrees stand motion of a front-wheel drive bicycle robot</title>
+      <link>https://glbupt.github.io/publication/lei-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/lei-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing control of a kind of wire-moving robot</title>
+      <link>https://glbupt.github.io/publication/guo-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of non-linear controller for unicycle robot based on RBF neural network self-adaption control</title>
+      <link>https://glbupt.github.io/publication/guo-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modeling and adaptive controller design for a wire-moving robot</title>
+      <link>https://glbupt.github.io/publication/guo-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Design and Stable-balancing Control of a Kind of Wire-moving Robot</title>
+      <link>https://glbupt.github.io/publication/guo-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

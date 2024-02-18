@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics;Feature Selection;Inverse problems;Recurrent neural networks;Robots; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/dynamicsfeature-selectioninverse-problemsrecurrent-neural-networksrobots/</link>
+      <atom:link href="https://glbupt.github.io/tag/dynamicsfeature-selectioninverse-problemsrecurrent-neural-networksrobots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamics;Feature Selection;Inverse problems;Recurrent neural networks;Robots;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dynamics;Feature Selection;Inverse problems;Recurrent neural networks;Robots;</title>
+      <link>https://glbupt.github.io/tag/dynamicsfeature-selectioninverse-problemsrecurrent-neural-networksrobots/</link>
+    </image>
+    
+    <item>
+      <title>Semi-empirical dynamics modeling of a bicycle robot based on feature selection and RHONN</title>
+      <link>https://glbupt.github.io/publication/guo-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reliability analysis;Formal languages;Network protocols; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/reliability-analysisformal-languagesnetwork-protocols/</link>
+      <atom:link href="https://glbupt.github.io/tag/reliability-analysisformal-languagesnetwork-protocols/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reliability analysis;Formal languages;Network protocols;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Reliability analysis;Formal languages;Network protocols;</title>
+      <link>https://glbupt.github.io/tag/reliability-analysisformal-languagesnetwork-protocols/</link>
+    </image>
+    
+    <item>
+      <title>Simulation and Modeling of Modbus Protocol Based on Petri Net</title>
+      <link>https://glbupt.github.io/publication/guo-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

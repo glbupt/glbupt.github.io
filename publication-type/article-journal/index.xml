@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article-journal | Lei Guo</title>
+    <link>https://glbupt.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://glbupt.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>article-journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>article-journal</title>
+      <link>https://glbupt.github.io/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Online adaptive optimal control algorithm based on synchronous integral reinforcement learning with explorations</title>
+      <link>https://glbupt.github.io/publication/guo-2023-c/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient model-free adaptive optimal control of continuous-time nonlinear non-zero-sum games based on integral reinforcement learning with exploration</title>
+      <link>https://glbupt.github.io/publication/guo-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined control algorithm based on synchronous reinforcement learning for a self-balancing bicycle robot</title>
+      <link>https://glbupt.github.io/publication/guo-2023-a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-free adaptive optimal control of continuous-time nonlinear non-zero-sum games based on reinforcement learning</title>
+      <link>https://glbupt.github.io/publication/guo-2023-b/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2023-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-empirical dynamics modeling of a bicycle robot based on feature selection and RHONN</title>
+      <link>https://glbupt.github.io/publication/guo-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification and detection using hidden Markov modelsupport vector machine algorithm based on optimal colour space selection for blood images</title>
+      <link>https://glbupt.github.io/publication/guo-2022-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2022-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural optimization of a new type of lever-assisted gear reducer based on a genetic algorithm</title>
+      <link>https://glbupt.github.io/publication/guo-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and control of a variable structure robot</title>
+      <link>https://glbupt.github.io/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of a novel tilt sensor based on the principle of variable reluctance</title>
+      <link>https://glbupt.github.io/publication/guo-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Design and Stable-balancing Control of a Kind of Wire-moving Robot</title>
+      <link>https://glbupt.github.io/publication/guo-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

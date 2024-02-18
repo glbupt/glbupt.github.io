@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transmissions;Robotics;Mine hoists;Structural optimization; | Lei Guo</title>
+    <link>https://glbupt.github.io/tag/transmissionsroboticsmine-hoistsstructural-optimization/</link>
+      <atom:link href="https://glbupt.github.io/tag/transmissionsroboticsmine-hoistsstructural-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transmissions;Robotics;Mine hoists;Structural optimization;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://glbupt.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Transmissions;Robotics;Mine hoists;Structural optimization;</title>
+      <link>https://glbupt.github.io/tag/transmissionsroboticsmine-hoistsstructural-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Structural optimization of a new type of lever-assisted gear reducer based on a genetic algorithm</title>
+      <link>https://glbupt.github.io/publication/guo-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://glbupt.github.io/publication/guo-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
